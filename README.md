@@ -1,5 +1,6 @@
 # probSpace
 [![Build Status][travis-image]][travis-url]
+
 ![](https://i.imgur.com/DHV5JND.png)
 
 Este é um projeto que tem como intuito auxiliar na resolução de exercícios de probabilidade de variáveis aleatórias contínuas.
